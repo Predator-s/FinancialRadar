@@ -7,7 +7,9 @@ it yourself.
 
 Built for the **Bytex Challenge**. This README is deliberately detailed about
 *where AI helped* and, more importantly, *where AI was wrong and human
-engineering judgment had to step in* (see [§7](#7-ai-tools--the-honest-story)).
+engineering judgment had to step in* (see [7](#7-ai-tools--the-honest-story)).
+
+<img width="1468" height="880" alt="Screenshot 2026-07-13 at 10 24 29 PM" src="https://github.com/user-attachments/assets/527b0700-83f2-4794-950c-77e07b684a15" />
 
 ---
 
