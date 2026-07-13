@@ -1,0 +1,13 @@
+{
+  "name": "bytex-ledger",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Smart Mini-Ledger — full-stack financial ledger with a Financial Radar (anomaly detection + burn-rate forecast) and pluggable notifications.",
+  "scripts": {
+    "install:all": "npm install --prefix backend && npm install --prefix frontend",
+    "seed": "npm run seed --prefix backend",
+    "backend": "npm start --prefix backend",
+    "frontend": "npm run dev --prefix frontend",
+    "dev": "npm run seed && (npm start --prefix backend & npm run dev --prefix frontend)"
+  }
+}

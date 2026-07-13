@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+
+# Local ledger data — the JSON "database". Keep the folder, ignore contents
+# except a placeholder so `npm run seed` has somewhere to write.
+backend/data/*.json
+backend/data/*.tmp
